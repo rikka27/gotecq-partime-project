@@ -1,0 +1,16 @@
+
+{
+  "app.blg.API_URL": "https://magazine-api-server.herokuapp.com/api",
+  "app.blg.app_name": "Blogle",
+  "portal.icon_base_url": "https://cdn.gotecq.com/tecq-partners/app-icon",
+  "portal.icon_type": "svg",
+  "portal.app_list": [
+    {
+      "url": "http://localhost:3000/",
+      "title": "Blogle",
+      "advanced_item": false,
+      "key": "datapack-management",
+      "cls": "blogle"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gotecq-partime-project/static/css/main.b1f590f9.chunk.css",
+    "main.js": "/gotecq-partime-project/static/js/main.a2e29732.chunk.js",
+    "main.js.map": "/gotecq-partime-project/static/js/main.a2e29732.chunk.js.map",
+    "runtime-main.js": "/gotecq-partime-project/static/js/runtime-main.8ad71793.js",
+    "runtime-main.js.map": "/gotecq-partime-project/static/js/runtime-main.8ad71793.js.map",
+    "static/css/2.bbb627f7.chunk.css": "/gotecq-partime-project/static/css/2.bbb627f7.chunk.css",
+    "static/js/2.d53736d4.chunk.js": "/gotecq-partime-project/static/js/2.d53736d4.chunk.js",
+    "static/js/2.d53736d4.chunk.js.map": "/gotecq-partime-project/static/js/2.d53736d4.chunk.js.map",
+    "index.html": "/gotecq-partime-project/index.html",
+    "static/css/2.bbb627f7.chunk.css.map": "/gotecq-partime-project/static/css/2.bbb627f7.chunk.css.map",
+    "static/css/main.b1f590f9.chunk.css.map": "/gotecq-partime-project/static/css/main.b1f590f9.chunk.css.map",
+    "static/js/2.d53736d4.chunk.js.LICENSE.txt": "/gotecq-partime-project/static/js/2.d53736d4.chunk.js.LICENSE.txt",
+    "static/media/CIBranchLogo.png": "/gotecq-partime-project/static/media/CIBranchLogo.e3bed8cf.png",
+    "static/media/style.scss": "/gotecq-partime-project/static/media/bg.ef879a3e.png",
+    "static/media/index.less": "/gotecq-partime-project/static/media/index.f7536ba3.less"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ad71793.js",
+    "static/css/2.bbb627f7.chunk.css",
+    "static/js/2.d53736d4.chunk.js",
+    "static/css/main.b1f590f9.chunk.css",
+    "static/js/main.a2e29732.chunk.js"
+  ]
+}
